@@ -4,7 +4,7 @@
 - 👀 I’m interested in Programming, Genetics, Systems Biology, and everything related to Bioinformatics!
 - 🌱 I’m currently learning how to work with molecular networks and some Julia programming while improving my Python and R programming skills
 - 💡 In the future, I want to learn system administration of Unix Systems and some Biostatistics in order to complete my formation
-- 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg [at] gmail [dot] com
+- 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg[at]gmail[dot]com
 
 <!---
 SergioAlias/SergioAlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
