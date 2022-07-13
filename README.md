@@ -2,7 +2,7 @@
 - 🎓 BSc in Biotechnology (University of Almería, UAL), MSc in Genetics and Evolution (University of Granada, UGR) and MSc in Bioinformatics and Computational Biology (Autonomous University of Madrid, UAM)
 - 📌 Computational Systems Biology Group at the National Center for Biotechnology (CNB-CSIC)
 - 👀 I’m interested in Programming, Genetics, Systems Biology, and everything related to Bioinformatics!
-- 🌱 I’m currently learning how to work with molecular networks and Julia programming while improving my Python and R programming skills
+- 🌱 I’m currently learning how to work with molecular networks and some Julia programming while improving my Python and R programming skills
 - 💡 In the future, I want to learn some Biostatistics in order to complete my formation
 - 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg [at] gmail [dot] com
 
