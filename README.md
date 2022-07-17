@@ -3,7 +3,7 @@
 - 📌 Computational Systems Biology Group at the National Center for Biotechnology (CNB-CSIC)
 - 👀 I’m interested in Programming, Genetics, Systems Biology, and everything related to Bioinformatics!
 - 🌱 I’m currently learning how to work with molecular networks while improving my Python and R programming skills
-- 💡 In the future, I want to learn Julia programming, system administration of Unix Systems and some Biostatistics in order to complete my formation
+- 💡 I want to learn Julia programming, system administration of Unix Systems and some Biostatistics in order to complete my formation
 - 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg[at]gmail[dot]com
 
 <!---
