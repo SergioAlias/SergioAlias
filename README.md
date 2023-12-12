@@ -7,6 +7,8 @@
 - 💡 I want to learn system administration of Unix Systems and some Biostatistics in order to complete my formation
 - 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg[at]gmail[dot]com
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAlias&theme=blue-green)
+
 <!---
 SergioAlias/SergioAlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
