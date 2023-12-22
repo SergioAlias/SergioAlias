@@ -2,11 +2,13 @@
 - 🎓 BSc in Biotechnology (University of Almería, UAL), MSc in Genetics and Evolution (University of Granada, UGR) and MSc in Bioinformatics and Computational Biology (Autonomous University of Madrid, UAM)
 - 📌 Department of Molecular Biology and Biochemistry, Science Faculty, University of Malaga (UMA)
 - 👀 I’m interested in Programming, Genetics, Systems Biology, and everything related to Bioinformatics!
-- 🌱 I’m currently learning single-cell RNA-seq analysis and how to work with molecular networks while improving my R and Python programming skills
+- 🌱 I’m currently learning single-cell RNA-seq analysis and metagenomics while improving my R programming skills
 - 💡 I want to learn system administration of Unix Systems and some Biostatistics in order to complete my formation
 - 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: sergioaliaseg[at]gmail[dot]com
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAlias&theme=blue-green)
+
+<img src="https://myreadme.vercel.app/api/embed/SergioAlias?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
 SergioAlias/SergioAlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
