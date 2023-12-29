@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Sergio Alías Segura (he/him), a novel bioinformatician from Almería, Spain and currently living in Madrid
 - 🎓 BSc in Biotechnology (University of Almería, UAL), MSc in Genetics and Evolution (University of Granada, UGR) and MSc in Bioinformatics and Computational Biology (Autonomous University of Madrid, UAM)
-- 📌 Department of Molecular Biology and Biochemistry, Science Faculty, University of Malaga (UMA)
+- 📌 Department of Genetics, Physiology and Microbiology, Biological Sciences Faculty, Complutense University of Madrid (UCM)
 - 👀 I’m interested in Programming, Genetics, Systems Biology, and everything related to Bioinformatics!
 - 🌱 I’m currently learning single-cell RNA-seq analysis and metagenomics while improving my R programming skills
 - 💡 I want to learn system administration of Unix Systems and some Biostatistics in order to complete my formation
