@@ -7,7 +7,9 @@
 - 🔬 You can take a look at my research on [ORCID](https://orcid.org/0000-0002-2928-4890), [ResearchGate](https://www.researchgate.net/profile/Sergio-Alias-Segura) and [Google Scholar](https://scholar.google.es/citations?user=cbMisY4AAAAJ)
 - 📫 How to reach me? Check my [LinkedIn profile](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: salias[at]ucm[dot]es
 
-<img src="https://myreadme.vercel.app/api/embed/SergioAlias?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioAlias&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSergioAlias&longCache=true"/>
 
 <!---
 SergioAlias/SergioAlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
