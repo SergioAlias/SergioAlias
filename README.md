@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SergioAlias&data=stars,repositories,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
 - 👋 Hi! I’m Sergio Alías-Segura (he/him), a novel bioinformatician from Almería, Spain and currently living in Madrid
 - 🎓 BSc in Biotechnology, MSc in Genetics and Evolution and MSc in Bioinformatics and Computational Biology
 - 📌 1st year PhD student on Microbiology and Parasitology @ Department of Genetics, Physiology and Microbiology, Biological Sciences Faculty, Complutense University of Madrid (UCM)
@@ -8,8 +10,6 @@
 - 📫 How to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/sergioaliaseg/) or send me an e-mail: salias[at]ucm[dot]es
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioAlias&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSergioAlias&longCache=true"/>
 
 <!---
 SergioAlias/SergioAlias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
