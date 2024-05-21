@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SergioAlias&data=stars,repositories,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
 - 👋 Hi! I’m Sergio Alías-Segura (he/him), a novel bioinformatician from Almería, Spain and currently living in Madrid
 - 🎓 BSc in Biotechnology, MSc in Genetics and Evolution and MSc in Bioinformatics and Computational Biology
 - 📌 1st year PhD student on Microbiology and Parasitology @ Department of Genetics, Physiology and Microbiology, Biological Sciences Faculty, Complutense University of Madrid (UCM)
