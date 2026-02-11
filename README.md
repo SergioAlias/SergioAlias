@@ -1,5 +1,5 @@
-![Stats](./profile/stats.svg)
-![Gist](./profile/gist.svg)
+![Top Languages](./profile/top-langs.svg)
+
 
 📩 **salias[at]ucm[dot]es**
 
