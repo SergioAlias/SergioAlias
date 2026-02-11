@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioAlias&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=MUBBC" alt="ovi" />
-
+![Stats](./profile/stats.svg)
+![Gist](./profile/gist.svg)
 
 📩 **salias[at]ucm[dot]es**
 
